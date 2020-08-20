@@ -19,7 +19,7 @@ So, what can cause heart disease? The silent contributors are high blood pressur
 
 ### You are wrong if you thought there will be the classical chest pain that men develop when you have heart disease.
 
-The well-known squeezing chest pain is the common symptom of a heart disease. But women have symptoms that are very different than what men have. There may not be chest pain, there may not be left shoulder pain but SHOCKINGLY there will be just nausea, vomiting and tiredness. Ain’t these symptoms felt everyday by a woman? Should we run to the emergency room every time we have these symptoms? NO!! The best way is to prevent it. 
+The well-known squeezing chest pain is the common symptom of a heart disease. But women have symptoms that are [very different than what men have](https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack/heart-attack-symptoms-in-women). There may not be chest pain, there may not be left shoulder pain but SHOCKINGLY there will be just nausea, vomiting and tiredness. Ain’t these symptoms felt everyday by a woman? Should we run to the emergency room every time we have these symptoms? NO!! The best way is to prevent it. 
 
 ### Prevent before it comes, so you can live and radiate!
 
