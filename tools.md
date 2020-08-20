@@ -4,6 +4,8 @@ title: Useful tools
 nav_order: 3
 ---
 
+# Useful Tools
+
 Here are some useful tutorials:
 
 1. [Markdown](https://guides.github.com/features/mastering-markdown/): This is what I use to author content in this website
