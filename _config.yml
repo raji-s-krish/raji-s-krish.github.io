@@ -1,3 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
 title: Rajalakshmi Santhanakrishnan
 description: AI in healthcare
+plugins:
+  - jekyll-include-cache
