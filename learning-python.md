@@ -7,7 +7,7 @@ nav_order: 2
 
 # Learning Python
 
-# Introduction
+## Introduction
 
 Let’s start from the basics.
 
@@ -25,7 +25,7 @@ First, if you are using a Mac, Python is inbuilt - access it via TERMINAL (you m
 
 Second, you will also need a text editor (a software that helps you type the code more easily); here, I will be using Visual Studio Code. Once Visual Studio Code is set up, create a New file as learning.py or anyother.py in your home 🏠 folder. Although, for simple code, you can use the TERMINAL, I am going to use Visual Studio Code from the start.
 
-# Basics
+## Basics
 
 Given that, let’s get to the actual programming,
 
@@ -71,7 +71,7 @@ Loop (still figuring this out 😒)
 
 Why do we have to start with these building blocks? These are fundamentals for programming and more importantly, (through examples) we can get started on some fundamental coding principles/methods/commands, etc.,
 
-# Sequential execution (one command after the other)
+## Sequential execution (one command after the other)
 
 First, let’s start with a simple area calculation. We all know this (Area of circle = π*r^2; Area of a rectangle = length*width; Area of square = side^2). Before going into the sequential execution, let’s calculate an area first - how do we tell the computer that? Here is how. (Type in VS Code, copy paste in Terminal and you will get the following). ⚠️ pay attention to spacing.
 
@@ -98,7 +98,7 @@ print area
 
 So, that is our sequential execution.
 
-# Conditionals (if this → do this, else → do this)
+## Conditionals (if this → do this, else → do this)
 
 For this let’s use a simple example first, then we will go back to our Area problem. Below is the code.
 
@@ -196,7 +196,7 @@ We can use # to insert a comment, so a person who is reading the code understand
 
 There are 3 commands/scope after the conditions if or elif or else. 1) instructions for user 2) formula for calculation 3) output.
 
-# Loops ( loop back and check if all conditions are met)
+## Loops ( loop back and check if all conditions are met)
 
 Loop is a programming structure that repeats a sequence of instructions until a specific condition is met. Loops are used to cycle through values, add sums of numbers, repeat functions, and many other things.
 
@@ -305,11 +305,11 @@ while temperature < hot_enough:
 print "It's hot enough - You're done!"
 ```
 
-# Abstraction (will update this later)
+## Abstraction (will update this later)
 
 What is abstraction? Abstraction in Python is the process of hiding the real implementation of an application from the user and emphasising only on usage of it. Example, when you use TV remote, you do not know how pressing a key in the remote changes the channel internally on the TV. You just know that pressing + volume key will increase the volume. You don’t have to know how remote works internally, yet you can still use remote perfectly fine.
 
-# Functions
+## Functions
 
 Let’s do functions now. Here are the different definitions of functions that I found.
 
@@ -385,7 +385,7 @@ def addition(x, y):
 c = addition(3, 5)  
 print(c)
 ```
-# Exercise 1
+### Exercise 1
 
 Let’s try a simple exercise. Creating a function to convert miles to km. (1 mile = 1.6 km).
 
@@ -400,7 +400,7 @@ e = km(33)
 print(e)
 ```
 
-# Exercise 2
+### Exercise 2
 
 Let’s try a more complicated problem. Here we set up a formula first with 2 different cases and then include if else condition within the function.
 
