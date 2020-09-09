@@ -2,5 +2,5 @@ source 'http://rubygems.org'
 gem 'rails', '3.0.3'
 
 group :development do
-  gem 'rack-contrib', :require => 'rack/contrib'
+  gem 'jekyll-include-cache', :require => 'jekyll-include-cache'
 end
