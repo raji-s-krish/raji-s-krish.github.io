@@ -1,4 +1,4 @@
-title: Rajalakshmi Santhanakrishnan
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"title: Rajalakshmi Santhanakrishnan
 description: AI in healthcare
 plugins:
   - jekyll-include-cache
