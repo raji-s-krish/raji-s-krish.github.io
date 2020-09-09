@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Learning Python: Loops
-nav_order: 2-1
 ---
 
 # Loops ( loop back and check if all conditions are met)
