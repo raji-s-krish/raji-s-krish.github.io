@@ -1,3 +1,5 @@
+# Loops
+
 # Loops ( loop back and check if all conditions are met)
 
 Loop is a programming structure that repeats a sequence of instructions until a specific condition is met. Loops are used to cycle through values, add sums of numbers, repeat functions, and many other things.
