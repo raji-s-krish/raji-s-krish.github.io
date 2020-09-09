@@ -1,6 +1,3 @@
-source 'http://rubygems.org'
-gem 'jekyll-include-cache'
+source "https://rubygems.org"
 
-group :development do
-  gem 'jekyll-include-cache', :require => 'jekyll-include-cache'
-end
+gem "github-pages", group: :jekyll_plugins
