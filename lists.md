@@ -8,7 +8,7 @@ nav_order: 4
 
 Lists represent ordered sequences of values. We have already seen an example of a list.
 
-```
+```python
 primes = [2, 3, 5, 7]
 ```
 
