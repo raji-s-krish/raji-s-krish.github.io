@@ -7,4 +7,6 @@ nav_order: 1
 # Hi, My Name is Raji
 
 
-I am a Physician and a Scientist with experience in managing cardiovascular clinical studies across Singapore and the USA. I collaborated with institutes across the world and published 16 peer-reviewed articles in clinical cardiology. 
+I am a Physician and a Scientist with dual doctoral degree.
+I have managed cardiovascular clinical studies across Singapore and the USA collaborating with institutes across the world and published 16 peer-reviewed articles in clinical cardiology. 
+Currently working as Clinical Research Physician at Qure.ai and learning programming (with no prior exposure) while making positive impact in the world through Qure.ai's healthcare products. 
