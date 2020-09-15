@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# Hi, My Name is Raji
+# Hi, My Name is Raji Santhanakrishnan
 
 
 I am a Physician and a Scientist with dual doctoral degree.
