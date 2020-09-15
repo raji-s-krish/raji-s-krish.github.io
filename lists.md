@@ -1,5 +1,5 @@
 ---
-name: Lists
+name: Lists in Python
 layout: default
 nav_order: 4
 ---
